@@ -19,5 +19,5 @@ for (var i = 0; i < A.length; i++) {
 }
 
 console.log ('Source array:', A);
-console.log ('> 0 array:', B);
-console.log ('< 0 array:', C);
+console.log ('Positive array:', B);
+console.log ('Negative array:', C);
